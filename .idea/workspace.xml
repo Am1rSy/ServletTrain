@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2728094c-4f6f-4c75-9e30-197b63c7731b" name="Changes" comment="Initial Version with doctor and patients welcome page">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp-runner-9.0.24.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+    <list default="true" id="2728094c-4f6f-4c75-9e30-197b63c7731b" name="Changes" comment="Modified gitignore">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/servlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/servlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,11 +37,18 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="f3dfc1ff82809e5a9768ec038a0ebd8f37ca9410" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
@@ -56,6 +61,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -69,7 +75,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.W5_Servlet [appStop]">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\amirs\OneDrive - Imperial College London\Year 3\Software Engineering for Bioengineering\W5_Servlet" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle.W5_Servlet [appStart]">
     <configuration name="W5_Servlet [appStartDebug]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -160,10 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.W5_Servlet [appStop]" />
         <item itemvalue="Gradle.W5_Servlet [appStart]" />
-        <item itemvalue="Gradle.W5_Servlet [appStartDebug]" />
         <item itemvalue="Gradle.W5_Servlet [build]" />
+        <item itemvalue="Gradle.W5_Servlet [appStop]" />
+        <item itemvalue="Gradle.W5_Servlet [appStartDebug]" />
+        <item itemvalue="Gradle.W5_Servlet [appStart]" />
       </list>
     </recent_temporary>
   </component>
@@ -176,7 +188,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699353349830</updated>
       <workItem from="1699353350902" duration="1893000" />
-      <workItem from="1699958447891" duration="372000" />
+      <workItem from="1699958447891" duration="2216000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Version with doctor and patients welcome page">
       <option name="closed" value="true" />
@@ -186,7 +198,23 @@
       <option name="project" value="LOCAL" />
       <updated>1699354580437</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added JAR and Procfile">
+      <option name="closed" value="true" />
+      <created>1699958880810</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1699958880810</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Modified gitignore">
+      <option name="closed" value="true" />
+      <created>1699959076248</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1699959076248</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,6 +233,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Version with doctor and patients welcome page" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Version with doctor and patients welcome page" />
+    <MESSAGE value="Added JAR and Procfile" />
+    <MESSAGE value="Modified gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Modified gitignore" />
   </component>
 </project>

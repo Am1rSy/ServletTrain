@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -jar ./webapp-runner-9.0.24.1.jar --port $PORT ./build/libs/webapp-runner-9.0.24.1.war
+web: java $JAVA_OPTS -jar ./webapp-runner-9.0.24.1.jar --port $PORT ./build/libs/W5_Servlet-1.0-SNAPSHOT.war
